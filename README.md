@@ -1,2 +1,2 @@
 # visualizations
-This repo is dedicated for development of visualizations using python and d3.
+This repo is dedicated for development of visualizations using python and D3. 
